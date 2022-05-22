@@ -2,6 +2,10 @@
 
 Tanky Car Racing este un joc de simularea in mod realist a unei curse de masini. Acestea sunt dotate cu un tun ce lanseaza proiectile care, daca nimeresc adversarul, il incetinesc si il destabilizeaza. Jocul a fost realizat in totalitate in Unreal Engine 4.
 
+# Demo
+
+https://youtu.be/FEg44TxWs_s
+
 # Controls
 
   W, A, S, D = modificarea directiilor de mers
