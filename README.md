@@ -39,4 +39,4 @@ Prin natura sa atat de path-folower cat si path-finder, indiferent daca este lov
 
 Am folosit un shader de contur pentru a oferi un effect de Vaporwave jocului. Acest effect se activeaza prin apasarea tastei E
 
-Mai multe detalii cu privire la implementare + proof de implementarea al task-urilor se poate gasi in powerpoint-ul de pe acest git.
+Mai multe detalii cu privire la implementare + proof de implementare al task-urilor se gasesc in powerpoint-ul de pe acest git.
