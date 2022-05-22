@@ -1,7 +1,5 @@
 # Tanky Car Racing
 
-A simulation game which has cars tuned with small rockect launchers on top of the hoodie which recharge by picking special ammo from the racing track.
-
 Tanky Car Racing este un joc de simularea in mod realist a unei curse de masini. Acestea sunt dotate cu un tun ce lanseaza proiectile care, daca nimeresc adversarul, il incetinesc si il destabilizeaza. Jocul a fost realizat in totalitate in Unreal Engine 4.
 
 # Controls
